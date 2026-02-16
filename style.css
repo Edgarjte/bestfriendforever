@@ -10,7 +10,6 @@ body {
   justify-content: center;
   align-items: center;
   font-family: "Georgia", serif;
-  color: #1f2a44;
   overflow: hidden;
 }
 
@@ -32,15 +31,11 @@ canvas {
   z-index: 2;
 }
 
-.gif {
-  width: 90px;
-  margin-bottom: 15px;
-}
-
 h1 {
   font-size: 22px;
   margin-bottom: 30px;
   line-height: 1.4;
+  color: #1f2a44;
 }
 
 .buttons {
@@ -77,3 +72,7 @@ button {
   color: #555;
 }
 
+.final-gif {
+  width: 120px;
+  margin-top: 25px;
+}

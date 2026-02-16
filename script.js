@@ -53,8 +53,8 @@ yesButton.addEventListener("click", () => {
 
   document.querySelector(".card").innerHTML = `
     <h1 style="color:#7b1e3a">
-      OUIIIII !<br><br>
-      Coeur sur toi ma Léo ♥
+      ✨ Pour la vie alors ✨<br><br>
+      Je suis très heureux.
     </h1>
 
     <img 

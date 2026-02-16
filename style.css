@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(135deg, #f8cdda, #fbd3e9);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  background: white;
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+  width: 320px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.avatar {
+  font-size: 60px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+#yes {
+  background: #ff5a79;
+  color: white;
+}
+
+#no {
+  background: #ddd;
+}
+
+.hint {
+  margin-top: 20px;
+  font-size: 12px;
+  color: #888;
+}

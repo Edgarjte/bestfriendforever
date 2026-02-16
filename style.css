@@ -31,6 +31,11 @@ canvas {
   z-index: 2;
 }
 
+.intro-gif {
+  width: 90px;
+  margin-bottom: 15px;
+}
+
 h1 {
   font-size: 22px;
   margin-bottom: 30px;

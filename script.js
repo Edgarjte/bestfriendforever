@@ -52,8 +52,8 @@ yesButton.addEventListener("click", () => {
 
   document.querySelector(".card").innerHTML = `
     <h1 style="color:#7b1e3a">
-      ✨ Pour la vie alors ✨<br><br>
-      Je suis très heureux.
+      OUIIIIIII<br><br>
+      Coeur sur toi ma Leo <3
     </h1>
   `;
 });
